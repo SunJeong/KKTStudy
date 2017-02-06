@@ -13,3 +13,6 @@ this is new branch, by for 'tyjeong'
 
 2. 02/06 11:17
 Second modify
+
+3. modify in Master
+you have to check this file in the branch
