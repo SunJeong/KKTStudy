@@ -1,1 +1,11 @@
 Read a potentiometer, print its state out to the Arduino Serial Monitor. 
+
+What is this?
+
+Who are you?
+
+Where is the Kyeung Chan?
+
+nice to meet you
+this is new branch, by for 'tyjeong'
+
